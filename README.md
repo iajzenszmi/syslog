@@ -1,0 +1,2 @@
+# syslog
+cat syslog output
